@@ -57,7 +57,8 @@ public class week5 {
 	    
 
 	Aldama.Display();
-
+    
+    Catalan.Display();
 
 
 
