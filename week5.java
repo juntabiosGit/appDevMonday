@@ -14,7 +14,13 @@ public class week5 {
 
         Francisco.display();
 
+        Plena.display();
+
+
+        AlimMaria.display();
+
         Pergis.display();
+
 
 
 
