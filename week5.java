@@ -13,8 +13,7 @@ public class week5 {
 
         Lluz.display();
 
-
-
+        David.display();
       
         Lucero.display();
 
