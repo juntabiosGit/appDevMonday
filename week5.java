@@ -8,13 +8,13 @@ public class week5 {
 
         Lanzar.display();
 
-
         Lluz.display();
-
 
         Walo.display();
 
         Francisco.display();
+
+        Pergis.display();
 
 
 
