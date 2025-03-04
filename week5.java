@@ -57,6 +57,7 @@ public class week5 {
 	    
 
 	Aldama.Display();
+	Ringor.display();
 
 
 
