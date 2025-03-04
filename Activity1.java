@@ -61,7 +61,7 @@ public class Activity1 {
            System.out.println("Nikka Cyra S.  Catalan - BSIT-2B");
 
             System.out.println("Hannah Mae A. Sabangan - BSIT-2B");
-
+            System.out.println("Angel Samson - BSIT2B");
 
 
             System.out.println("David Kyle Velasco - BSIT-2B");
