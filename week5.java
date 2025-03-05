@@ -29,7 +29,6 @@ public class week5 {
 	  Jalosjos.Display();
 	 Babon.Display();
 	 Aldama.Display();
-     Capuno.display();
         DelaCruz.display();
         // Call each student's method
         Olimberio.display(); // Add your method call here
@@ -38,7 +37,7 @@ public class week5 {
 	    Cardenas.display();
         Orolfo.display();
         Manuba.display();
-
+        Capuno.display();
 
 
 
