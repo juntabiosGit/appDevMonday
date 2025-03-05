@@ -45,18 +45,20 @@ public class week5 {
 
        Corporal.display();
 
-	Lim.Display();
+	Lim.display();
 
 
 
       Santos.display();
 
-	Jalosjos.Display();
+	Jalosjos.display();
 
-	Babon.Display();
+	Babon.display();
 	    
 
-	Aldama.Display();
+	Aldama.display();
+
+    Manuba.display();
 
 
 
