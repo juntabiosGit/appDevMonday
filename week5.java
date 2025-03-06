@@ -58,7 +58,8 @@ public class week5 {
 
 	Aldama.Display();
 
-
+        Mendoza.display();
+	    
 
 
 
