@@ -25,6 +25,9 @@ public static int add(int a, int b) {
         return a == b;
     }
 
+    // Group 10: Check if numbers are equal (Member: Redecio)
+    public static boolean isEqual(int a, int b) {
+    return a == b;
 
     // Group 6: Square (Members: Acosta, Bantilo, Jalique, Pergis, Walo)
     public static int square(int a) {
@@ -36,8 +39,4 @@ public static int add(int a, int b) {
     public static int square(int a) {
         return a * a;
     }
-
 }
-
-}
-
