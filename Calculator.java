@@ -12,6 +12,12 @@ public static int add(int a, int b) {
     }
 
 
+    // Group 2: Subtraction (Members: John, Sarah, Alex)
+    public static int subtract(int a, int b) {
+    return a - b;
+    }
+
+
     // Group 10: Check if numbers are equal (Members: Jake, Emily, Ryan)
     public static boolean isEqual(int a, int b) {
         return a == b;
