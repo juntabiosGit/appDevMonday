@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GroupWork {
+public class test {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
@@ -10,8 +10,7 @@ public class GroupWork {
         int num2 = scanner.nextInt();
         
         // Calling methods from Calculator.java
-        System.out.println("Sum: " + Calculator.add(num1, num2));  // Group 1's method
-        System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
+        System.out.println(Calculator.max(num1, num2));  // Group 8's method
 
         scanner.close();
     }
