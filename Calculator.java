@@ -11,5 +11,7 @@ public class Calculator {
         return a == b;
     }
 
-    // Other groups will add their methods here
+    // Group 6: Square (Members: Acosta, Bantilo, Jalique, Pergis, Walo)
+    public static int square(int a) {
+        return a * a;
 }
