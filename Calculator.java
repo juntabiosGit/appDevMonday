@@ -4,17 +4,9 @@ public class Calculator {
 public static int add(int a, int b) {
     return a + b;
 }
-
-
-    // Group 2: Subtraction  (Members: Lucero,Louie Justine)
+    // Group 2: Subtraction  (Members: Lucero, Louie Justine, San Agustin, Aaron, Aldama, Allane, Palomas, Ralph Allen M., Arenas, Emely, Jalosjos, Emmanuel, Marasigan, Gilbert Jr, David, Whynzel Lance, Mendoza, Reign, Plena, Vincent Allen))
     public static int subtract(int a, int b) {
         return a - b;
-    }
-
-
-    // Group 2: Subtraction (Members: John, Sarah, Alex)
-    public static int subtract(int a, int b) {
-    return a - b;
     }
 
 
