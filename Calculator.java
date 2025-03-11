@@ -36,7 +36,7 @@ public static int add(int a, int b) {
     public static int square(int a) {
         return a * a;
     }
-    //Group 9: Min (Members: Alim, Guiterrez, Mendolia, Yano, Pangantihon, Mariano, Luces, Trojello, jornales)
+    // Group 9: Min (Members: Alim, Guiterrez, Mendolia, Yano, Pangantihon, Mariano, Luces, Trojello, jornales)
         public static int min(int a, int b) {
             return (a < b)? a : b;
         }
