@@ -39,5 +39,10 @@ public static int add(int a, int b) {
 
 }
 
+    // Group 4: Divide (Members: Abastilla, Bandolin, Lim, Soriano, Ancheta, Cafugauan, Velasco, Ambay, Montalbo, Lanzar, Loberiano)
+	public static int divide(int a, int b) {
+		return a / b;
+	}		
+
 }
 
