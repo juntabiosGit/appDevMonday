@@ -30,6 +30,10 @@ public static int add(int a, int b) {
     public static int square(int a) {
         return a * a;
 
+	// Group 7: Cube (Members: Crisven Furia, Josher Asis, Jhon Patrick Salen, Chrizha Mae T. Angeles, Jayvee Mendiola, Francisco Vinas, Jude Andrei Dimayuga)
+    public static int cube(int a) {
+        return a * a * a;
+    }
 
     // Other groups will add their methods here
     // Group 6: Square (Members: Acosta, Bantilo, Jalique, Pergis, Walo)
