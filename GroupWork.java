@@ -1,9 +1,13 @@
 import java.util.Scanner;
 
+public class GroupWork {
+
+
 
 public class GroupWork {
 
 public class test {
+
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,7 +17,12 @@ public class test {
         System.out.print("Enter second number: ");
         int num2 = scanner.nextInt();
 
-        // Calling methods from Calculator.java
+
+        System.out.println("Difference: " + Calculator.subtract(num1, num2));  // Group 2's method
+        scanner.close();
+    }
+}
+
 
         System.out.println("Sum: " + Calculator.add(num1, num2)); // Group 1's method
 
@@ -56,4 +65,5 @@ public class test {
 
         scanner.close();
     }
+
 
