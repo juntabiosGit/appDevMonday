@@ -1,6 +1,27 @@
 
+import java.util.Scanner;
+public class GroupWork {
+    public static int max(int a, int b) {
+
+        /*Group 8 Members: Carlito A. Sese Jr.
+                        Ma. Eloisa Louisse Corporal
+                        Christian Dolloso
+                        Frynces Avryl I. Romero
+                        Robel Padohinog
+                        Bryle Lacandula*/
+        
+      if (a>b) {
+        System.out.println("Max number is: "+ a); }
+       else if (b>a) {
+         System.out.println("Max number is: "+ b); 
+       }
+      return 0;       
+    };
+  }
+
+
 public class Calculator {
-// Group 1: Addition (Members: John, Sarah, Alex)
+  //Group 1: Addition (Members: Monica, Maxene, Hazel, Stephen, Cj, Nikka, Daryll, Angel, Hannah, Mon )
 public static int add(int a, int b) {
     return a + b;
 }
@@ -20,11 +41,18 @@ public static int add(int a, int b) {
 
 
 
+
     // Group 10: Check if numbers are equal (Members: Jener)
+
+    // Group 10: Check if numbers are equal (Members: Lluz)
+
     public static boolean isEqual(int a, int b) {
         return a == b;
     }
 
+    // Group 10: Check if numbers are equal (Member: Redecio)
+    public static boolean isEqual(int a, int b) {
+    return a == b;
 
     // Group 6: Square (Members: Acosta, Bantilo, Jalique, Pergis, Walo)
     public static int square(int a) {
@@ -37,7 +65,18 @@ public static int add(int a, int b) {
         return a * a;
     }
 
+    // Group 9: Min (Members: Alim, Guiterrez, Mendolia, Yano, Pangantihon, Mariano, Luces, Trojello, jornales)
+        public static int min(int a, int b) {
+            return (a < b)? a : b;
+        }
 }
+
+
+	// Group 4: Divide (Members: Abastilla, Bandolin, Lim, Soriano, Ancheta, Cafugauan, Velasco, Ambay, Montalbo, Lanzar, Loberiano)
+	public static int divide(int a, int b) {
+		return a / b;
+	}
+
 
 }
 
