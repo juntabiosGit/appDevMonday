@@ -22,5 +22,7 @@ public class test {
         System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
 
 
+        System.out.println("Smaller Number is: " + Calculator.isSmall(num1, num2)); //Group 9's method
+
         scanner.close();
     }
